@@ -1,0 +1,132 @@
+.MainWrapper{
+    margin:0px;
+}
+/*センター*/
+.center{
+    width:60%;
+    background-color: white;
+    margin-top:80px;
+    float:left
+}
+.reco{
+    width: 60%;
+    margin: 0 auto;
+}
+.center h2{
+    text-align: center;
+    letter-spacing: 1.0em;
+    border-bottom: solid 1px;
+}
+.items{
+    padding:0px 10px;
+}
+.left{
+    width:20%;
+    float:left;
+    background-color: rgba(172, 170, 83, 0.486);
+    height: 1650px;
+    
+}
+.left img{
+    width:40px;
+}
+.leftTop{
+    margin-top: 80px;
+}
+.leftTop p{
+    margin-top: 20px;
+    letter-spacing: 0.1em;
+    margin-left: 30px;
+    margin-right:20px;
+    width:70%;
+    font-size: 18px;
+    padding-bottom: 1px;
+    border-bottom: solid 1px;
+    cursor: pointer;
+}
+.category{
+    margin-top: 100px;
+    
+}
+.catesel{
+    background-color: white;
+    text-align: center;
+    margin-left:10px;
+    width:90%;
+    font-size: 18px;
+    border-radius: 20px;
+    margin-bottom:50px;
+}
+.category p{
+    margin-top: 20px;
+    letter-spacing: 0.1em;
+    margin-left: 30px;
+    width:70%;
+    font-size: 16px;
+    padding-bottom: 15px;
+    border-bottom: solid 1px;
+    cursor: pointer;
+}
+.right{
+    width:20%;
+    float:left;
+    background-color: rgba(172, 170, 83, 0.486);
+    height:1650px;
+    margin-bottom: 10px;
+}
+.right h3{
+    
+    text-align: center;
+    background-color: white;
+    width:90%;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.right p{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.clear{
+    clear:left;
+}
+/*タブレット*/
+.Tcenter{
+    width:100%;
+    background-color: white;
+    margin-top:80px;
+    margin-bottom: 100px;
+}
+.Treco{
+    width: 60%;
+    margin: 0 auto;
+}
+.Tcenter h2{
+    text-align: center;
+    letter-spacing: 1.0em;
+    border-bottom: solid 1px;
+}
+.Titems{
+    padding:0px 10px;
+}
+/*スマートホン*/
+
+.Scenter{
+    width:100%;
+    background-color: white;
+    margin-top:50px;
+    margin-bottom: 20px;
+}
+.Sreco{
+    width: 60%;
+    margin: 0 auto;
+}
+.Scenter h2{
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom: solid 1px;
+}
+.Sitems{
+    padding:0px 10px;
+}

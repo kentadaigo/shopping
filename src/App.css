@@ -1,0 +1,17 @@
+*{
+  box-sizing:border-box;
+  margin:0px;
+  padding:0px;
+  
+}
+
+:root{
+  --swiper-navigation-color:white;
+  --swiper-pagination-color:white;
+}
+.swiper-pagination-bullet{
+  display:block;
+  width:2rem;
+  height:2rem;
+  --bullet-background:trasparent;
+}
